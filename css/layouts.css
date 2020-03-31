@@ -1,0 +1,19 @@
+header{
+    width: 90%;
+    margin: 25px auto;
+    text-align: center;
+    padding: 25px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+  }
+  section img{
+      box-shadow: 2px 4px 18px #ccc;
+      border: 1px solid gold;
+     
+  }
+  img{
+    height: 200px;
+    width: 25%;
+    
+  }
+  
