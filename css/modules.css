@@ -6,18 +6,16 @@ h1{
     font-family: sans-serif;
     
 }
-#photo-template{
-    display: none;
-}
+
 section h2{
     text-align: center;
-    margin: 30px;
-    font-size: 23px;
+    margin: 77px;
+    font-size: 26px;
 }
 section p{
     text-align: center;
-    margin-top: 15px;
-    font-size: 18px;
+    margin: -157px 0px 0px 0px;
+    font-size: 19px;
 }
 footer{
     text-align: center;
@@ -25,7 +23,6 @@ footer{
     font-weight: 700;
 }
 select{
-    
     margin: 20px auto;
     font-size: 20px;
     background-color: aqua;
@@ -35,6 +32,7 @@ select{
     border-radius: 5px;
 }
 section img {
-    height: 200px;
-    width: 200px;
+    height: 230px;
+    width: 205px;
+    margin: 55px 0px 0px 0px;
 }
